@@ -1,0 +1,41 @@
+#txt {
+    position: relative;
+    left: 31%;
+    top: 5em;
+    width: 42%;
+    height: 3em;
+    font-size: 37px;
+    color: royalblue;
+    border-radius: 2em;
+}
+
+input:hover {
+
+}
+
+#btn {
+    position: relative;
+    left: 5%;
+    top: 16em;
+    height: 3em;
+    width: 9%;
+    font-size: 19px;
+    background: greenyellow;
+    border-color: greenyellow;
+    border-radius: 100px;
+}
+
+#output {
+    position: relative;
+    width: 42%;
+    height: 19em;
+    background: aquamarine;
+    top: 21em;
+    left: 31%;
+    border-radius: 2em;
+}
+
+iframe {
+        width: 102%;
+    height: 61em;
+}
